@@ -62,7 +62,7 @@ except Exception:
 # -----------------------------------------------------------------------------
 # CONFIGURATION
 # -----------------------------------------------------------------------------
-DATA_PATH = "school_shootings.csv"   # <-- update this if your CSV file has another name
+DATA_PATH = "school_shootings.csv"   # 
 OUTPUT_DIR = "project_outputs"
 RANDOM_STATE = 42
 TEST_SIZE = 0.20
